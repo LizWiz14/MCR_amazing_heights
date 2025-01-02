@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "This pack is specificly made for the Mirabilis Terra generator pack.",
+    "pack_format": 48,
+    "supported_formats": [7, 61]
+  }
+}
